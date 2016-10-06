@@ -18,8 +18,8 @@ this policy is stupid.
 - ad fda fjdakl fadsjbayd da
 
 1. fjdskla
-2. fdsa
-3. fdsa
+1. fdsa
+1. fdsa
 	1. fdsa
 	1. fda
 1. fdsa
