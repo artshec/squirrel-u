@@ -14,7 +14,7 @@ this policy is stupid.
 
 
 - GHre is a list
-- and antoohtre itme
+	- and antoohtre itme
 - ad fda fjdakl fadsjbayd da
 
 1. fjdskla
